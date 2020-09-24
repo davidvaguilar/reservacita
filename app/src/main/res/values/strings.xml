@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reserva</string>
+    <string name="label_reserva">Reservar cita</string>
+    <string name="label_descripcion">Descripción</string>
+    <string name="label_especialidad">Especialidad</string>
+    <string name="label_tipo">Tipo de Cita</string>
+    <string name="rdb_tipo1">Consulta</string>
+    <string name="rdb_tipo2">Examen</string>
+    <string name="rdb_tipo3">Operación</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="label_medico">Médico</string>
+    <string name="label_fecha">Fecha de la cita</string>
+    <string name="label_instruccion">Seleccione un médico y la fecha, para ver disponibilidad</string>
+    <string name="subtitulo_resumen">Datos de la cita</string>
+</resources>
